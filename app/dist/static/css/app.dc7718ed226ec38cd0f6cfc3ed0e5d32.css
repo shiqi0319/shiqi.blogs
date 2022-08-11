@@ -1,14 +1,14 @@
 
 #app[data-v-bd26cd6c] {
-    font-family: 'Avenir', Helvetica, Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 html[data-v-bd26cd6c] {
-    min-height: 100%;
+  min-height: 100%;
 }
 .styleEditor[data-v-bd26cd6c] {
-    -webkit-backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
 }
 
 .code[data-v-23b5cc2c] {
@@ -44,7 +44,7 @@ html,body,#app{
   height:100%;
 }
 .resumeEditor {
-    background: url(../../static/img/timg.1a8a778.jpg) #fff no-repeat center bottom / auto auto;
+    background: url(../../static/img/timg.dfc9e67.jpg) #fff no-repeat center bottom / auto auto;
 }
 /**
  * webkit-scroll
