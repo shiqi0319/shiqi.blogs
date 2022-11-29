@@ -8,5 +8,6 @@
 {{birthday2.DATA}}
 {{note_en.DATA}}
 {{note_ch.DATA}}
+请欣赏今日推荐的歌曲：{{music.DATA}}
 
 
