@@ -2,7 +2,7 @@ import random
 from time import localtime
 from requests import get, post
 from datetime import datetime, date
-from zhdate import ZhDate
+# from zhdate import ZhDate
 import sys
 import os
 
@@ -121,7 +121,8 @@ def get_ciba():
 
 
 def get_music():
-    list = ['我要让你心碎', '我都忘了你有多美', '日落大道', '人间萤火', '橘子海']
+    list = ['我要让你心碎', '我都忘了你有多美', '日落大道', '人间萤火', '橘子海',
+            '梦想时分', '有暖气', '黄色大门', '唯一', 'Letting Go', '探清水河']
     return random.choice(list)
 
 
